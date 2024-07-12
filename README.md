@@ -12,8 +12,11 @@ CSS Styling:
 
 The form uses Bulma CSS framework for styling.
 Additional custom CSS is included to set the maximum width of the container and style the total price display.
+
 JavaScript Functions:
 
 calculateTotal function calculates the total price based on selected component prices and updates the total price display.
 submitOrder function shows an alert with the total price when the order is submitted.
+
+
 This example demonstrates how to create a simple and interactive order form using HTML, CSS (Bulma), and JavaScript. The form dynamically calculates the total price based on user selections and provides a clean and responsive user interface.
